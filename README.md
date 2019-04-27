@@ -3,6 +3,21 @@
 
 ![logo](other/SoAI_logo_full.png)
 
+## 目录
+- [关于SoAI](##关于SoAI)
+- [资料](##资料)
+   - [SoAI北京](###SoAI-北京)
+   - [Github代码库](###Git代码库)
+- [课程列表](##课程列表)
+- [课程内容](##课程内容)
+   - [第一课 深度学习入门指南](###第一课-深度学习入门指南)
+   - [第二课 图像分类](###第二课-图像分类)
+- [作业汇总](##作业汇总)
+- [参考资料](##参考资料)
+- [交流分享](##交流分享)
+
+---
+
 ## 关于SoAI
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.   
 
@@ -25,8 +40,9 @@
 |2018-04-27|第二节|图像分类|请提前预习|安装fastai环境并动手实现|
 |2018-05-8|第三节|-||-|
 |2018-05-6|第四节|-||-|
-|||||||
+| -|-|-|-|-|-|
 
+最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)
 
 ## 课程内容
 
@@ -57,7 +73,7 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 ## 作业汇总
 - [Homework](homework/README.md)
-- 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](project/2)新建自己的卡片
+- 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
 
 ## 参考资料
 ###  CNN和CV
