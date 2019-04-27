@@ -57,6 +57,7 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 ## 作业汇总
 - [Homework](homework/README.md)
+- 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](project/2)新建自己的卡片
 
 ## 参考资料
 ###  CNN和CV
