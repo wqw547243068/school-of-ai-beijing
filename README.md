@@ -1,9 +1,11 @@
 # The School of AI Beijing
 - Welcome to Beijing [School of AI](https://www.theschool.ai/) !
+
 ![logo](other/SoAI_logo_full.png)
 
 ## 关于SoAI
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.   
+
 ![first](other/first_lecture.jpg)
 
 ## 资料
