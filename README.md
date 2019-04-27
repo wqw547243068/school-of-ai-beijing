@@ -20,8 +20,10 @@
 
 ## 关于SoAI
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.   
-
-![first](other/first_lecture.jpg)
+- 北京分部有中文、英文两个版本，详情：
+   - 英语分支，每周一晚在朝阳，Max主讲 ![en](other/SoAI_en.jpg)
+   - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
+![first](other/first_lecture.jpg),![flipped](other/flipped.jpg)
 
 ## 资料
 
@@ -32,14 +34,21 @@
 - 克隆代码库到本地:
 > git clone git@github.com:wqw547243068/school-of-ai-beijing.git
 
+### 入门必读
+- 机器学习入门：
+   - [可视化讲解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+- 深度学习入门：
+   - 布朗学院新鲜出炉，[交互式图解人工智能](https://okai.brown.edu/zh/index.html)
+   - [Google PlayGround神经网络训练在线演示](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45786&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false),[汉化版](http://playground.tensorflowjiaocheng.com/)，[手写数字识别3D交互体验](http://scs.ryerson.ca/~aharley/vis/conv/)
+
 ## 课程列表
 
 |*时间*|*章节*|*题目*|*作业*|*备注*|
 |----|----|:------:|:----|:----|
 |2019-04-21|第一节|深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多|
 |2018-04-27|第二节|图像分类|请提前预习|安装fastai环境并动手实现|
-|2018-05-8|第三节|-||-|
-|2018-05-6|第四节|-||-|
+|2018-05-* |第三节|特征工程及SGD||-|
+|2018-05-* |第四节|-||-|
 | -|-|-|-|-|-|
 
 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)
