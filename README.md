@@ -1,15 +1,12 @@
-# 宗旨
-
-# 课程
-
-
 # The School of AI Beijing
+![logo](other/SoAI_logo_full.png)
+
 **SoAI-北京**
-- 详情请点击：[慕课学院](http://www.mooc.ai/course/489)
+- 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
 
 ## Git代码库
 - 克隆代码库到本地:
-> git clone git@github.com:wqw547243068/Python-learning.git
+> git clone git@github.com:wqw547243068/school-of-ai-beijing.git
 
 ## 课程列表
 
