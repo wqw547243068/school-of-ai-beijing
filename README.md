@@ -72,4 +72,15 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 ## 交流分享
 欢迎大家入群分享、交流！
-![简介](fig/contact.png)
+- QQ群
+![qq](other/SoAI-北京群二维码.png)
+
+
+## 合作方
+
+![bdd](other/bdd.png)
+
+
+
+
+
