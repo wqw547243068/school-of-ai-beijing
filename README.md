@@ -1,4 +1,5 @@
 # The School of AI Beijing
+- Welcome to Beijing [School of AI](https://www.theschool.ai/) !
 ![logo](other/SoAI_logo_full.png)
 
 **SoAI-北京**
@@ -78,7 +79,7 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 ## 合作方
 
-![bdd](other/bdd.png)
+![bdd](other/bdd.jpg)
 
 
 
