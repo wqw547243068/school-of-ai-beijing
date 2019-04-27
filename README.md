@@ -45,6 +45,8 @@
 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)
 
 ## 课程内容
+- 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本
+![fastai](other/fastai.jpg)
 
 ### 第一课 深度学习入门指南
 
