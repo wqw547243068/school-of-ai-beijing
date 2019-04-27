@@ -43,15 +43,20 @@
 
 ## 课程列表
 
+时间线：
 |*时间*|*章节*|*题目*|*作业*|*备注*|
 |----|----|:------:|:----|:----|
-|2019-04-21|第一节|深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多|
-|2018-04-27|第二节|图像分类|请提前预习|安装fastai环境并动手实现|
-|2018-05-* |第三节|特征工程及SGD||-|
-|2018-05-* |第四节|-||-|
+|2019-04-21|介绍|深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多|
+|2018-04-27|第一课|宠物图片分类,[英文视频](https://course.fast.ai/videos/?lesson=1),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/74?u=daniel)|请提前预习|安装fastai环境并动手实现|
+|2018-05-* |第二课|特征工程及SGD,[英文视频](https://course.fast.ai/videos/?lesson=2),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/79?u=daniel)||-|
+|2018-05-* |第三课|多标签分类,[英文视频](https://course.fast.ai/videos/?lesson=3),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/78?u=daniel)||-|
+|2018-05-* |第四课|NLP&推荐系统,[英文视频](https://course.fast.ai/videos/?lesson=4),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/77?u=daniel)||-|
+|2018-05-* |第五课|从反向传播到神经网络,[英文视频](https://course.fast.ai/videos/?lesson=5),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/72?u=daniel)||-|
+|2018-05-* |第六课|正则化卷积,[英文视频](https://course.fast.ai/videos/?lesson=6),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/71?u=daniel)||-|
+|2018-05-* |第七课|Resnets、GAN等,[英文视频](https://course.fast.ai/videos/?lesson=7),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/69?u=daniel)||-|
 | -|-|-|-|-|-|
 
-最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)
+最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)
 
 ## 课程内容
 - 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本
