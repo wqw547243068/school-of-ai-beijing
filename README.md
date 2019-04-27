@@ -24,134 +24,32 @@
 |||||||
 
 
-### 内容提要
+## 课程内容
 
-#### 第一节 入门导读
-内容如下：
-1. AI时代何去何从
-   - 时代浪潮：移动互联网→O2O→大数据→互金→智能家居→共享→AI→区块链
-   - DL是AI/ML的一个重要分支，Data是燃料（DM能力不可或缺）
-1. 如何高效学习
-   - 知乎：[为什么大多数人宁愿吃生活的苦，也不愿吃学习的苦？](https://www.zhihu.com/question/272483562/answer/376542013)（主动吃苦）
-   - 学习金字塔: 主动学习＞被动学习,教授＞总结＞实践＞看书
-   - 费曼技巧：[终极快速学习方法](https://www.zhihu.com/question/20576786)
-   - 怎么成为大牛？走出舒适区，进入学习区
-   - 大脑的学习之道：图谱结构+注意力+联想记忆+推理反思
-1. 课程导读
----
-#### 第二节 Python基础
-内容如下：
-1. 入门神图：
-   - 包，程序入口，函数，循环，分支，编码
-1. 开发环境：
-   - 三大流派：IDE+命令行+web
-   - Linux开发环境是互联网标配
-   - 大神简介：[Linus，一生只为寻找欢笑](https://zhuanlan.zhihu.com/p/19796979)
-   - [入门级：GitHub和Git超超超详细使用教程](https://blog.csdn.net/javaandroid730/article/details/53522872)
-   - [Git简易指南](http://www.bootcss.com/p/git-guide/), [Git快速入门](http://www.cnblogs.com/polk6/p/git-introduce.html)，[猴子都能懂的git入门](http://backlogtool.com/git-guide/cn/)，[Git常用命令速查表](https://files.jb51.net/file_images/article/201409/git_big_jb51.jpg)
-   - 官方环境[Jupyter Lab](http://jupyter.org/try)、[Google Colab](http://g.co/colab)（含GPU要翻墙）、 [Kaggle](https://www.kaggle.com/kernels)
-   - [7个Jupyter Notebook小提示与技巧](https://www.jianshu.com/p/dacc6acba00b), [Jupyter notebook快速入门](https://www.cnblogs.com/nxld/p/6566380.html),[Jupyter nbviewer](http://nbviewer.jupyter.org/)：各种notebook资料分享
-1. hello world
-   - [如何高效的调试](https://www.zhihu.com/question/21572891), [pdb单步调试技巧](https://www.cnblogs.com/rwxwsblog/p/4605309.html)
-   - 代码规范：[Google规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/),[Pylint：默认PEP8规范](https://www.ibm.com/developerworks/cn/linux/l-cn-pylint/)
-1. 数据结构
-   - [数据结构总结](http://lib.csdn.net/article/datastructure/11369)
-1. 算法
-   - [数据结构算法可视化网站visualgo](https://visualgo.net/en),[图解排序算法](http://www.cnblogs.com/chengxiao/p/6129630.html)
-   - [递归，分治算法，动态规划和贪心选择的区别](http://www.cnblogs.com/codeskiller/p/6477181.html)
-1. 总结
+### 第一课 深度学习入门指南
 
-#### 第三节 Python基础（续）
-内容如下：
-1. Python之禅：设计哲学
-1. 词频统计：词频排序→Top 3→中文版→文件读写→新闻语料
-1. 面向对象：代码块→函数→模块（过程） →类→包
-   - 面向对象：[初级篇](http://www.cnblogs.com/wupeiqi/p/4493506.html)，[进阶篇](http://www.cnblogs.com/wupeiqi/p/4766801.html)
-1. 总结
+### 第二课 图像分类
+- 主题：fastai课程的第一课进行讨论：图像分类。
+- 时间：于4月27日星期日下午5点举行
+- 地点：双清路77号院双清大厦4号楼4层清华数据科学研究院
 
-#### 第四节 Python数据分析基础
-1. 数据基础
-   - 线性代数（35%）
-      - 资料：[「Deep Learning」读书系列分享第二章：线性代数 | 分享总结](https://www.leiphone.com/news/201708/iL1S8jkc4ytZFzHS.html) 【文字版】, [线性代数笔记](https://note.youdao.com/share/?id=2dd5b67042a5a49bd81a450c0a7490be&type=note#/)
-   - 概率与信息论（25%）
-      - 资料：[「Deep Learning」读书系列分享第三章：概率和信息论 | 分享总结](https://www.leiphone.com/news/201708/lbN7eWYBcovwhhN7.html)，【文字版】
-      - 其他资料：[Deep Learning解读合辑 | 国庆特辑](https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=503183187&idx=1&sn=cf18a77ef1249b589c89e23e0ddcae9e&chksm=3ec1ca2009b64336d14cacc57a4dadd6f732af61cf29b6517df7c1387d5eedcd00837dab88e3&mpshare=1&scene=23&srcid=0605oj6B3P1HddCiBJgOolQE#rd), 视频版
-1. Python生态圈
-   - numpy, 矩阵运算工具，资料如下：
-      - [70个NumPy分级练习：用Python一举搞定机器学习矩阵运算](https://www.toutiao.com/a6527910077834199566/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1525573097&app=news_article&utm_source=mobile_qq&iid=31862217871&utm_medium=toutiao_android)
-      - [用python做科学计算——Numpy快速处理数据](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
-      - [python numpy笔记](https://www.zybuluo.com/chanvee/note/89078)
-      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/15/numpy/)
-   - pandas，表格数据分析工具，资料如下：
-      - [Pandas学习笔记|常用功能](https://zhuanlan.zhihu.com/p/25013519)
-      - [十分钟搞定pandas](http://www.cnblogs.com/chaosimple/p/4153083.html)
-      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/22/Pandas/)
-   - matplotlib,画图工具，资料如下：
-      - [matplotlib官方教程](http://matplotlib.org/1.3.1/users/pyplot_tutorial.html)
-      - [matplotlib核心剖析](http://www.cnblogs.com/vamei/archive/2013/01/30/2879700.html)
-      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/27/matplotlib/)
-1. 数据分析
-分析流程如下：
-![分析流程](https://pic2.zhimg.com/80/v2-d5ffe317e7a8ce9445548bf4a36fc42e_hd.jpg)
-   - 朝阳医院数据分析，分析过程参考：[销售数据分析](https://zhuanlan.zhihu.com/p/29210673),[用numpy和pandas分析数据过程](https://zhuanlan.zhihu.com/p/33437294)
-   - kaggle数据分析，数据源参考：[各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
-1. 总结
+议程：
+- 简要介绍fastai第1课的所有必要资源：图像分类。如何获取fastai的资源。 30分钟。我们将确保每个人都了解课程结构和官方资源。关于中国云GPU的讨论。
+- 6名学生（或更少）将现场演示他们的第一课作业。（每位演讲人10分钟）。 1小时或更短时间。
+- 自由问答。完成第一课的学生将与第一课中遇到困难的学生合作。30分钟
 
+资料：
+- 第1课的官方视频：图像分类：https://course.fast.ai/videos/?lesson=1
+- 带有英文字幕的第1课视频（无需vpn）：https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731
+- 官方资源和第1课的更新：https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936
+- AI北京学习集团官方论坛：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436。
+- 视频详细说明：https://github.com/hiromis/notes/blob/master/Lesson1.md
+- 主代码库：https://github.com/fastai/course-v3
+- 主要网站：https://course.fast.ai/
+- 主要论坛（需要个人注册）：https://forums.fast.ai/
 
-#### 第五节 机器学习基础
-1. 什么是机器学习
-   - 各种关系
-1. 基本概念
-   - 流程,[Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/training-and-test-sets/video-lecture),[使用sklearn做单机特征工程](https://www.cnblogs.com/jasonfreak/p/5448385.html),[用正则化(Regularization)来解决过拟合](https://www.cnblogs.com/ooon/p/4964441.html)
-   - 专业术语
-   - 典型问题
-1. 经典算法
-   - [图解机器学习](https://my.oschina.net/taogang/blog/1544709),[动态图体验网址](https://codepen.io/collection/DPWwaj/2/)
-   - [图解机器学习](C:\Users\wqw\Desktop\tantan\fastai\好玩儿的python\ppt\图解机器学习), web形式展示机器学习的前后过程
-1. 案例
-   - [Scikit-learn官网](http://scikit-learn.org/stable/),[中文文档](http://sklearn.apachecn.org/cn/0.19.0/)
-   - [Sklearn快速使用及经典算法实现](https://www.cnblogs.com/lianyingteng/p/7811126.html)
-1. 总结
+PS：即使不太了解Python，您也可以运行第1课中的所有代码行，这将激励你去研究细节。 （最终你需要了解自行车的机械才能够骑它吗？）。如果您在某个问题上确实无法解决，欢迎您在微信组或以下网址提出任何问题：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436
 
-
-#### 第六节 深度学习基础
-1. 什么是深度学习
-   - 定义+发展历史
-1. 神经网络
-   - 基本流程
-   - 反向传播
-   - 梯度下降
-   - 资料：[可视化神经网络空间变换](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html),[Google playground](http://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=circle&regDataset=reg-gauss&learningRate=0.03&regularizationRate=0.001&noise=0&networkShape=4,3,4,2&seed=0.57107&showTestData=false&discretize=false&percTrainData=50&x=true&)
-   - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
-1. Tensorflow
-   - [小白都能懂的tensorflow教程](http://www.sohu.com/a/126825423_465975)
-1. Tensorboard
-   - [详解TensorBoard如何调参](https://blog.csdn.net/qunnie_yi/article/details/80129434)
-1. 总结
-
-
-
-#### 第七节 iris和mnist
-1. iris数据集+机器学习实战, [有道笔记链接](http://note.youdao.com/noteshare?id=d056f57ae605874c8485ae50eddc8d66&sub=D81038A5C91E4BE6A612ACEB8A56AEDE)
-1. mnist数据集+tensorflow进阶，[jupyter notebook地址](./courses/chapter_7/scikit-learn-example.ipynb)
-
-#### 第八节 RNN和NLP
-1. RNN简介
-   - 资料：[循环神经网络（RNN）原理通俗解释](https://blog.csdn.net/qq_39422642/article/details/78676567),[TensorFlow中RNN实现的正确打开方式](https://blog.csdn.net/starzhou/article/details/77848156)
-   - [理解LSTM网络](https://www.jianshu.com/p/9dc9f41f0b29),[英文原文](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-1. 应用：
-   - 分类：再谈MNIST,[RNN用于MNIST分类](https://cuiqingcai.com/4934.html)
-   - 回归：股票预测, [LSTM股票预测](https://blog.csdn.net/mylove0414/article/details/55805974)
-1. NLP简介
-   - NLP基本概念
-      - [NLP学习总结](https://www.jianshu.com/p/ee484fd1c6d8),[十分钟NLP概述](https://www.cnblogs.com/baiboy/p/learnnlp.html),[BosonNLP在线示例](https://bosonnlp.com/demo#overview-emotion)
-
-1. 应用
-   - 聊天机器人
-      - [python分析微信朋友圈](https://blog.csdn.net/u012485099/article/details/79522144),[Python解密微信大数据](https://zhuanlan.zhihu.com/p/33230381),[Itchat微信自动回复](https://zhuanlan.zhihu.com/p/34238048)
-   - seq2seq,[charRNN-TF](https://github.com/hzy46/Char-RNN-TensorFlow)
-1. 总结
-   - 资料,[语音机器人](https://www.thepaper.cn/newsDetail_forward_2238654),[艾诚中英文切换超自如 对话网红机器人获赞](http://ent.enorth.com.cn/system/2017/09/14/033729404.shtml)
 
 #### 第九节 CNN和CV
 1. iris数据集+机器学习实战
