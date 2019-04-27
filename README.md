@@ -55,6 +55,9 @@
 PS：即使不太了解Python，您也可以运行第1课中的所有代码行，这将激励你去研究细节。 （最终你需要了解自行车的机械才能够骑它吗？）。如果您在某个问题上确实无法解决，欢迎您在微信组或以下网址提出任何问题：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436
 
 
+## 作业汇总
+- [Homework](homework/README.md)
+
 ## 参考资料
 ###  CNN和CV
 1. iris数据集+机器学习实战
@@ -78,6 +81,8 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 1. 反思
    - [Geoffrey Hinton多伦多大学演讲：卷积神经网络的问题](http://www.sohu.com/a/165989490_465975)
    - [Hinton的Capsule论文全公开！首发《胶囊间的动态路由》原文精译，了解Hinton的胶囊网络ㅣ第一部分：直觉](http://mp.weixin.qq.com/s/gAFKrUjfQyqaDKNyMRitZg)
+
+
 
 
 ## 交流分享
