@@ -2,10 +2,16 @@
 - Welcome to Beijing [School of AI](https://www.theschool.ai/) !
 ![logo](other/SoAI_logo_full.png)
 
-**SoAI-北京**
+## 关于SoAI
+- An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.   
+![first](other/first_lecture.jpg)
+
+## 资料
+
+### SoAI-北京
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
 
-## Git代码库
+### Git代码库
 - 克隆代码库到本地:
 > git clone git@github.com:wqw547243068/school-of-ai-beijing.git
 
