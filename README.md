@@ -1,8 +1,6 @@
 # The School of AI Beijing
 - Welcome to Beijing [School of AI](https://www.theschool.ai/) !
 
-![logo](other/SoAI_logo_full.png)
-
 ## 目录
 - [关于SoAI](#关于soai)
 - [资料](#资料)
@@ -19,6 +17,7 @@
 ---
 
 ## 关于SoAI
+![logo](other/SoAI_logo_full.png)
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.   
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
