@@ -115,8 +115,9 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 ## 交流分享
 欢迎大家入群分享、交流！
-- - [Fast.AI论坛-SoAI北京区](School of AI Beijing Study Group)（英文为主）
+- [Fast.AI论坛-SoAI北京区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)（英文为主）
 - The School of AI 北京中文版 QQ群
+
 ![qq](other/SoAI-北京群二维码.png)
 
 ## 合作方
