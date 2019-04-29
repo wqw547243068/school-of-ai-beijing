@@ -118,17 +118,19 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 
 
-
 ## 交流分享
 欢迎大家入群分享、交流！
-- QQ群
+- - [Fast.AI论坛-北京讨论组](School of AI Beijing Study Group)（英文为主）
+- The School of AI 北京中文版 QQ群
 ![qq](other/SoAI-北京群二维码.png)
 
-
 ## 合作方
-
+- 大数据文摘+清华数据科学院研究院
 ![bdd](other/bdd.jpg)
+- 举办地点：清华大学
+- 时间：每周末一次，如想参加，请先文摘助手微信，往期海报如下：
 
+![bdd](other/bdd_siraj.png)
 
 
 
