@@ -69,6 +69,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 ## 课程内容
 - 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本
 ![fastai](other/fastai.jpg)
+- 如有问题，可以去[SoAI论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
 
 ### 第一课 深度学习入门指南
 
@@ -78,16 +79,15 @@ Fast.AI系列速成实战课程，时间安排如下：
 - 地点：双清路77号院双清大厦4号楼4层清华数据科学研究院
 
 议程：
-- 简要介绍fastai第1课的所有必要资源：图像分类。如何获取fastai的资源。 30分钟。我们将确保每个人都了解课程结构和官方资源。关于中国云GPU的讨论。
-- 6名学生（或更少）将现场演示他们的第一课作业。（每位演讲人10分钟）。 1小时或更短时间。
-- 自由问答。完成第一课的学生将与第一课中遇到困难的学生合作。30分钟
-
-PS：即使不太了解Python，您也可以运行第1课中的所有代码行，这将激励你去研究细节。 （最终你需要了解自行车的机械才能够骑它吗？）。如果您在某个问题上确实无法解决，欢迎您在微信组或以下网址提出任何问题：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436
+- 介绍fastai第1课的必要资源,如何获取fastai的资源
+- 学生现场演示第一课作业
+- 自由问答, 遇到困难
 
 
 ## 作业汇总
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
+- 也可以去[Fast.AI论坛-SoAI区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
 
 ## 参考资料
 ###  CNN和CV
@@ -116,7 +116,7 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 
 ## 交流分享
 欢迎大家入群分享、交流！
-- - [Fast.AI论坛-北京讨论组](School of AI Beijing Study Group)（英文为主）
+- - [Fast.AI论坛-SoAI北京区](School of AI Beijing Study Group)（英文为主）
 - The School of AI 北京中文版 QQ群
 ![qq](other/SoAI-北京群二维码.png)
 
