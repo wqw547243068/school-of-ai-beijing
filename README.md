@@ -3,9 +3,11 @@
 
 ## 目录
 - [关于SoAI](#关于soai)
-- [资料](#资料)
-   - [SoAI北京](#soai-北京)
+- [学习资料](#学习资料)
+   - [入门必读](#入门必读)
 - [开发环境](#开发环境)
+   - [本地环境](#本地环境)
+   - [云环境](#云环境)
 - [课程列表](#课程列表)
 - [课程内容](#课程内容)
    - [第一课 深度学习入门指南](#第一课-深度学习入门指南)
@@ -13,7 +15,7 @@
 - [作业汇总](#作业汇总)
 - [参考资料](#参考资料)
 - [交流分享](#交流分享)
-
+- [合作方](#合作方)
 ---
 
 ## 关于SoAI
@@ -24,27 +26,28 @@
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
 ![first](other/first_lecture.jpg),![flipped](other/flipped.jpg)
 
-## 资料
-
-### Fast.AI
-- [Fast.AI官方课程主页](https://course.fast.ai/),[个人注册入口](https://forums.fast.ai/)
-
 ### SoAI-北京
 
 - [The School of AI Beijing官方论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
-- 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
+
+### Fast.AI
+- [Fast.AI官方课程主页](https://course.fast.ai/),[个人注册入口](https://forums.fast.ai/)
+
 
 ## 开发环境
 - 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
 
-### 本地模式
+### 本地环境
 - 待补充
 
 ### 云环境
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
    - 如果无法访问，建议使用Kaggle，[接入指南](https://course.fast.ai/start_kaggle.html)
 - [fastai官方代码库](https://github.com/fastai/course-v3)
+
+## 学习资料
+- 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### 入门必读
 - 机器学习入门：
