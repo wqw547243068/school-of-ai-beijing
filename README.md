@@ -27,10 +27,17 @@
 
 ## 资料
 
+### Fast.AI
+- [Fast.AI官方课程主页](https://course.fast.ai/),[个人注册入口](https://forums.fast.ai/)
+
 ### SoAI-北京
+
+- [The School of AI Beijing官方论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
+- 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### Git代码库
+- [fastai官方代码库](https://github.com/fastai/course-v3)
 - 克隆代码库到本地:
 > git clone git@github.com:wqw547243068/school-of-ai-beijing.git
 
@@ -43,7 +50,7 @@
 
 ## 课程列表
 
-时间线：
+Fast.AI系列速成实战课程，时间安排如下：
 
 |*时间*|*章节*|*题目*|*作业*|*备注*|
 |----|----|:------:|:----|:----|
@@ -75,16 +82,6 @@
 - 6名学生（或更少）将现场演示他们的第一课作业。（每位演讲人10分钟）。 1小时或更短时间。
 - 自由问答。完成第一课的学生将与第一课中遇到困难的学生合作。30分钟
 
-资料：
-- 第1课的官方视频：图像分类：https://course.fast.ai/videos/?lesson=1
-- 带有英文字幕的第1课视频（无需vpn）：https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731
-- 官方资源和第1课的更新：https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936
-- AI北京学习集团官方论坛：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436。
-- 视频详细说明：https://github.com/hiromis/notes/blob/master/Lesson1.md
-- 主代码库：https://github.com/fastai/course-v3
-- 主要网站：https://course.fast.ai/
-- 主要论坛（需要个人注册）：https://forums.fast.ai/
-
 PS：即使不太了解Python，您也可以运行第1课中的所有代码行，这将激励你去研究细节。 （最终你需要了解自行车的机械才能够骑它吗？）。如果您在某个问题上确实无法解决，欢迎您在微信组或以下网址提出任何问题：https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436
 
 
@@ -115,7 +112,6 @@ PS：即使不太了解Python，您也可以运行第1课中的所有代码行�
 1. 反思
    - [Geoffrey Hinton多伦多大学演讲：卷积神经网络的问题](http://www.sohu.com/a/165989490_465975)
    - [Hinton的Capsule论文全公开！首发《胶囊间的动态路由》原文精译，了解Hinton的胶囊网络ㅣ第一部分：直觉](http://mp.weixin.qq.com/s/gAFKrUjfQyqaDKNyMRitZg)
-
 
 
 ## 交流分享
