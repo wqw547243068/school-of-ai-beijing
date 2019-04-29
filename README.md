@@ -5,7 +5,7 @@
 - [关于SoAI](#关于soai)
 - [资料](#资料)
    - [SoAI北京](#soai-北京)
-   - [Github代码库](#git代码库)
+- [开发环境](#开发环境)
 - [课程列表](#课程列表)
 - [课程内容](#课程内容)
    - [第一课 深度学习入门指南](#第一课-深度学习入门指南)
@@ -35,8 +35,13 @@
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
-### 开发环境
-- 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境，如：
+## 开发环境
+- 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
+
+### 本地模式
+- 待补充
+
+### 云环境
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
    - 如果无法访问，建议使用Kaggle，[接入指南](https://course.fast.ai/start_kaggle.html)
 - [fastai官方代码库](https://github.com/fastai/course-v3)
