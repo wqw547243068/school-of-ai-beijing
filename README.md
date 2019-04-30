@@ -2,7 +2,7 @@
 
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
 - <font color='red'>温馨提示</font>：
-> <font color='blue'>如果在你浏览的是github里的readme文件，请转到 [项目主页](https://wqw547243068.github.io/school-of-ai-beijing) ，体验更好！（Readme文件无法查看视频）</font>
+> <font color='blue'>如果在你浏览的是github里的readme文件，请点击以上标题，体验更好！（Readme文件无法查看视频）</font>
 
 ## 目录
 - [关于SoAI](#关于soai)
