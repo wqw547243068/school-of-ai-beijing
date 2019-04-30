@@ -25,7 +25,7 @@
 ![logo](other/SoAI_logo_full.png)
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.  
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
-- <iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- <iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450" width="100%"> </iframe>
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
@@ -61,7 +61,7 @@
    - 布朗学院新鲜出炉，[交互式图解人工智能](https://okai.brown.edu/zh/index.html)
    - [Google PlayGround神经网络训练在线演示](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45786&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false),[汉化版](http://playground.tensorflowjiaocheng.com/)，[手写数字识别3D交互体验](http://scs.ryerson.ca/~aharley/vis/conv/)
 - 神经网络讲解【[3Blue1Brown优质讲解](https://www.bilibili.com/video/av15532370)】
-   - <iframe src="//player.bilibili.com/player.html?aid=15532370&cid=25368631&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   - <iframe src="//player.bilibili.com/player.html?aid=15532370&cid=25368631&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450" width="100%"> </iframe>
 - 其它
 
 ## 课程列表
@@ -100,7 +100,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 - 自由问答, 遇到困难
 
 视频资料：（来自[哔哩哔哩](https://www.bilibili.com/video/av46252318?from=search&seid=14000263006142671716)）
-- <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="450" width="100%"> </iframe>
 
 
 ## 作业汇总
