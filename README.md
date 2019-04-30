@@ -154,7 +154,6 @@ Fast.AI系列速成实战课程，时间安排如下：
    src="https://ghbtns.com/github-btn.html?user=wqw547243068&repo=school-of-ai-beijing&type=star&count=true" >
 </iframe>
 ---
-- 以下为网站统计代码，禁止复用
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -174,5 +173,4 @@ var _hmt = _hmt || [];
 
   gtag('config', 'UA-139247575-2');
 </script>
-
 ---
