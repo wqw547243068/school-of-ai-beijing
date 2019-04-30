@@ -1,8 +1,8 @@
 # [The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
-- <font color='red'>温馨提示</font>：
-> <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，请点击：</font>[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
+- <font color='red'>温馨提示</font>
+> <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，</font>请点击[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ## 目录
 - [关于SoAI](#关于soai)
