@@ -24,7 +24,7 @@
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
 
 <iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<iframe src="//player.bilibili.com/player.html?aid=37767979&amp;cid=66394634&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=37767979&amp;cid=66394634&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=498 width=510> </iframe>
 
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
