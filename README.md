@@ -170,7 +170,6 @@ var _hmt = _hmt || [];
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-139247575-2');
 </script>
 ---
