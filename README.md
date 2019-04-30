@@ -31,6 +31,8 @@
 Your browser does not support the video tag.
 </video>
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
