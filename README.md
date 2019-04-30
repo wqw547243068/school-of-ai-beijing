@@ -1,7 +1,4 @@
 # The School of AI Beijing
-<iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px" height="20px"
-   src="https://ghbtns.com/github-btn.html?user=wqw547243068&repo=school-of-ai-beijing&type=star&count=true" >
-</iframe>
 
 - Welcome to Beijing [School of AI](https://www.theschool.ai/) !
 
@@ -154,7 +151,10 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 ![bdd](other/bdd_siraj.png)
 
-
+---
+<iframe style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px" height="20px"
+   src="https://ghbtns.com/github-btn.html?user=wqw547243068&repo=school-of-ai-beijing&type=star&count=true" >
+</iframe>
 ---
 - 以下为网站统计代码，禁止复用
 <script>
