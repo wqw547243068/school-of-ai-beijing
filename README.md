@@ -86,7 +86,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)
 
 ## 课程内容
-- 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本
+- 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本（注意：需要vpn，如果没有，请往下看，找bilibili上的视频）
 ![fastai](other/fastai.jpg)
 - 如有问题，可以去[SoAI论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
 
