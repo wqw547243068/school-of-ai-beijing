@@ -108,6 +108,9 @@ Fast.AI系列速成实战课程，时间安排如下：
 - 学生现场演示第一课作业
 - 自由问答, 遇到困难
 
+视频资料：（来自[哔哩哔哩](https://www.bilibili.com/video/av46252318?from=search&seid=14000263006142671716)）
+- <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 ## 作业汇总
 - [Homework](homework/README.md)
