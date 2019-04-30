@@ -27,6 +27,10 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=37767979&amp;cid=66394634&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=800 width=900> </iframe>
 
+<video src="https://www.bilibili.com/video/av37767979/" width="800" height="900" controls="controls">
+Your browser does not support the video tag.
+</video>
+
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
