@@ -27,7 +27,8 @@
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.  
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
 - iframe
-<iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="800" width="1000"> </iframe>
+ 
 - h5视频 
 <video src="https://www.bilibili.com/video/av37767979/" controls="controls">
 Your browser does not support the video tag.
