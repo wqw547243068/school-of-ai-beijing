@@ -2,7 +2,7 @@
 
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
 - <font color='red'>温馨提示</font>：
-> <font color='blue'>如果在你浏览的是github里的readme文件，请点击以上标题，体验更好！（Readme文件无法查看视频）</font>
+> <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，请点击：</font>[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ## 目录
 - [关于SoAI](#关于soai)
@@ -100,7 +100,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 - 自由问答, 遇到困难
 
 视频资料：（来自[哔哩哔哩](https://www.bilibili.com/video/av46252318?from=search&seid=14000263006142671716)）
-- <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="800"> </iframe>
 
 
 ## 作业汇总
