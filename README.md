@@ -27,11 +27,17 @@
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
 
 <iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
+
 ---
+
 <iframe height=498 width=510 src='http://player.youku.com/embed/XNDE2MTQzMzkwNA==' frameborder=0 'allowfullscreen'></iframe>
+
 ---
+
 <embed src='http://player.youku.com/player.php/sid/XNDE2MTQzMzkwNA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
 ---
+
 http://player.youku.com/player.php/sid/XNDE2MTQzMzkwNA==/v.swf
 
 - 北京分部有中文、英文两个版本，详情：
