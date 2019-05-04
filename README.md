@@ -65,7 +65,7 @@
 - 神经网络讲解【[3Blue1Brown优质讲解](https://www.bilibili.com/video/av15532370)】，该系列一共4个视频，第一个如下：
    - <iframe src="//player.bilibili.com/player.html?aid=15532370&cid=25368631&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
    - [神经网络Web Demo](https://playground.tensorflow.org/)，可在线体验神经网络训练过程
-   - <iframe src="https://playground.tensorflow.org/" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="100%" width="100%"> </iframe>
+   - <iframe src="https://playground.tensorflow.org/" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" > </iframe>
 - 神经网络3D仿真特效（多种网络结构对比）
    - <iframe src="//player.bilibili.com/player.html?aid=13942311&cid=22776951&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
 
