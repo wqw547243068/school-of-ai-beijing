@@ -79,14 +79,14 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 |*时间*|*章节*|*题目*|*预习资源*|*正式解读*|
 |:----|:----|:------|:----|:----|
-|2019-04-21|介绍|[ x ]深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多，覆盖深度学习入门几乎全部知识点|
-|2018-04-27|[x]第一课|宠物图片分类,[英文视频](https://course.fast.ai/videos/?lesson=1),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/74?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-1-CN.md)|安装fastai环境并动手实现，代码解析：[Github本地](code/lecture_1/fastai_1_Image_Classification.ipynb),[Colab](https://colab.research.google.com/drive/14er2fMCOIyDcwFsV5Vm8LRRARAiiFZLm#scrollTo=NKQhJmjnSueO),[Kaggle](https://www.kaggle.com/wqw547243068/fastai-1-image-classification)|
-|2018-05-* |[x]第二课|特征工程及SGD,[英文视频](https://course.fast.ai/videos/?lesson=2),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/79?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-2-CN.md)|请提前预习左侧资源|
-|2018-05-* |[ ]第三课|多标签分类,[英文视频](https://course.fast.ai/videos/?lesson=3),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/78?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-3-CN.md)|-|
-|2018-05-* |[ ]第四课|NLP&推荐系统,[英文视频](https://course.fast.ai/videos/?lesson=4),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/77?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-4-CN.md)|-|
-|2018-05-* |[ ]第五课|从反向传播到神经网络,[英文视频](https://course.fast.ai/videos/?lesson=5),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/72?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-5-CN.md)|-|
-|2018-05-* |[ ]第六课|正则化卷积,[英文视频](https://course.fast.ai/videos/?lesson=6),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/71?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-6-CN.md)|-|
-|2018-05-* |[ ]第七课|Resnets、GAN等,[英文视频](https://course.fast.ai/videos/?lesson=7),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/69?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-7-CN.md)|-|
+|2019-04-21|介绍|深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多，覆盖深度学习入门几乎全部知识点|
+|2018-04-27|第一课|宠物图片分类,[英文视频](https://course.fast.ai/videos/?lesson=1),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/74?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-1-CN.md)|安装fastai环境并动手实现，代码解析：[Github本地](code/lecture_1/fastai_1_Image_Classification.ipynb),[Colab](https://colab.research.google.com/drive/14er2fMCOIyDcwFsV5Vm8LRRARAiiFZLm#scrollTo=NKQhJmjnSueO),[Kaggle](https://www.kaggle.com/wqw547243068/fastai-1-image-classification)|
+|2018-05-* |第二课|特征工程及SGD,[英文视频](https://course.fast.ai/videos/?lesson=2),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/79?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-2-CN.md)|请提前预习左侧资源|
+|2018-05-* |第三课|多标签分类,[英文视频](https://course.fast.ai/videos/?lesson=3),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/78?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-3-CN.md)|-|
+|2018-05-* |第四课|NLP&推荐系统,[英文视频](https://course.fast.ai/videos/?lesson=4),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/77?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-4-CN.md)|-|
+|2018-05-* |第五课|从反向传播到神经网络,[英文视频](https://course.fast.ai/videos/?lesson=5),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/72?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-5-CN.md)|-|
+|2018-05-* |第六课|正则化卷积,[英文视频](https://course.fast.ai/videos/?lesson=6),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/71?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-6-CN.md)|-|
+|2018-05-* |第七课|Resnets、GAN等,[英文视频](https://course.fast.ai/videos/?lesson=7),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/69?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-7-CN.md)|-|
 | -|-|-|-|-|-|
 
 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)
