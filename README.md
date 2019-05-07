@@ -1,6 +1,6 @@
 # [The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 ---
-![](https://img.shields.io/badge/language-swift-orange.svg)
+![](https://img.shields.io/badge/language-python-blue.svg)
 ---
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
 - <font color='red'>温馨提示</font>
