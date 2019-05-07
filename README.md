@@ -112,6 +112,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 
 ## 作业汇总
+- [作业提交指南](https://github.com/wqw547243068/school-of-ai-beijing/issues/2)
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
 - 也可以去[Fast.AI论坛-SoAI区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
