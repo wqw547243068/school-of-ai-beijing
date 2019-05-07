@@ -1,6 +1,8 @@
 # [The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 ---
-![](https://img.shields.io/badge/language-python-blue.svg)
+![](https://img.shields.io/badge/language-python-blue.svg) 
+<iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 ---
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
 - <font color='red'>温馨提示</font>
