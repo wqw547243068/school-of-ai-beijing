@@ -1,8 +1,8 @@
 # [The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ![](https://img.shields.io/badge/language-python-green.svg) 
-[![GitHub stars](https://img.shields.io/github/stars/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/wqw547243068.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/wqw547243068.github.io/network)
+[![GitHub stars](https://img.shields.io/github/stars/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/school-of-ai-beijing.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/school-of-ai-beijing.github.io/network)
 [![GitHub issues](https://img.shields.io/github/issues/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/wqw547243068.github.io/issues)
 [![GitHub release](https://img.shields.io/github/release/wqw547243068/school-of-ai-beijing.github.io.svg)](https://github.com/wqw547243068/wqw547243068.github.io/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wqw547243068/wqw547243068.github.io/master/LICENSE)
