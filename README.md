@@ -68,8 +68,7 @@
    - <iframe src="https://playground.tensorflow.org/" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  height="600" width="100%"> </iframe>
 - 神经网络3D仿真特效（多种网络结构对比）
    - <iframe src="//player.bilibili.com/player.html?aid=13942311&cid=22776951&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
-- 手写数字识别在线体验
-   - <iframe src="http://scs.ryerson.ca/~aharley/vis/conv/" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
+- [手写数字识别在线体验](http://scs.ryerson.ca/~aharley/vis/conv/)
 
 
 ## 课程列表
