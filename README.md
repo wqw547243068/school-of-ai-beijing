@@ -64,9 +64,37 @@
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### 入门必读
+- 如何高效学习
+   - 知乎：[为什么大多数人宁愿吃生活的苦，也不愿吃学习的苦？](https://www.zhihu.com/question/272483562/answer/376542013)（主动吃苦）
+   - 学习金字塔: 主动学习＞被动学习,教授＞总结＞实践＞看书
+   - 费曼技巧：[终极快速学习方法](https://www.zhihu.com/question/20576786)
+   - 怎么成为大牛？走出舒适区，进入学习区
+   - 大脑的学习之道：图谱结构+注意力+联想记忆+推理反思
+- 数学基础：（选读，如果想深入学习，就必读）
+   - 线性代数（35%）
+      - 资料：[「Deep Learning」读书系列分享第二章：线性代数 | 分享总结](https://www.leiphone.com/news/201708/iL1S8jkc4ytZFzHS.html) 【文字版】, [线性代数笔记](https://note.youdao.com/share/?id=2dd5b67042a5a49bd81a450c0a7490be&type=note#/)
+   - 概率与信息论（25%）
+      - 资料：[「Deep Learning」读书系列分享第三章：概率和信息论 | 分享总结](https://www.leiphone.com/news/201708/lbN7eWYBcovwhhN7.html)，【文字版】
+      - 其他资料：[Deep Learning解读合辑 | 国庆特辑](https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=503183187&idx=1&sn=cf18a77ef1249b589c89e23e0ddcae9e&chksm=3ec1ca2009b64336d14cacc57a4dadd6f732af61cf29b6517df7c1387d5eedcd00837dab88e3&mpshare=1&scene=23&srcid=0605oj6B3P1HddCiBJgOolQE#rd), 视频版
+- Python生态圈
+   - numpy, 矩阵运算工具，资料如下：
+      - [70个NumPy分级练习：用Python一举搞定机器学习矩阵运算](https://www.toutiao.com/a6527910077834199566/?tt_from=mobile_qq&utm_campaign=client_share&timestamp=1525573097&app=news_article&utm_source=mobile_qq&iid=31862217871&utm_medium=toutiao_android)
+      - [用python做科学计算——Numpy快速处理数据](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
+      - [python numpy笔记](https://www.zybuluo.com/chanvee/note/89078)
+      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/15/numpy/)
+   - pandas，表格数据分析工具，资料如下：
+      - [Pandas学习笔记|常用功能](https://zhuanlan.zhihu.com/p/25013519)
+      - [十分钟搞定pandas](http://www.cnblogs.com/chaosimple/p/4153083.html)
+      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/22/Pandas/)
+   - matplotlib,画图工具，资料如下：
+      - [matplotlib官方教程](http://matplotlib.org/1.3.1/users/pyplot_tutorial.html)
+      - [matplotlib核心剖析](http://www.cnblogs.com/vamei/archive/2013/01/30/2879700.html)
+      - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/27/matplotlib/)
 - 机器学习入门：
    - [可视化讲解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
    - [Google机器学习速成课](https://developers.google.cn/machine-learning/crash-course/)
+   - [Scikit-learn官网](http://scikit-learn.org/stable/),[中文文档](http://sklearn.apachecn.org/cn/0.19.0/)
+   - [Sklearn快速使用及经典算法实现](https://www.cnblogs.com/lianyingteng/p/7811126.html)
 - 深度学习入门：
    - 布朗学院新鲜出炉，[交互式图解人工智能](https://okai.brown.edu/zh/index.html)
    - [Google PlayGround神经网络训练在线演示](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.45786&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false),[汉化版](http://playground.tensorflowjiaocheng.com/)，[手写数字识别3D交互体验](http://scs.ryerson.ca/~aharley/vis/conv/)
@@ -124,6 +152,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
 - 也可以去[Fast.AI论坛-SoAI区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
+   - 【注意】<font color='red'>[如何在issue中提问](https://github.com/wqw547243068/school-of-ai-beijing/issues/1)</font>
 
 ## 参考资料
 ###  CNN和CV
