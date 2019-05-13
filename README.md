@@ -74,6 +74,8 @@
 
 ### 云环境
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
+      - [如何用 Google Colab 练 Python](https://sspai.com/post/52980)
+      - [Google Colab 免费GPU服务器使用教程](https://blog.csdn.net/cocoaqin/article/details/79184540)
    - 如果无法访问，建议使用Kaggle，[fastai接入指南](https://course.fast.ai/start_kaggle.html),[从0到1走进kaggle](https://blog.csdn.net/qunnie_yi/article/details/80129508)
       - 【2019-05-12】kaggle注册时可能收不到验证码，原因是伟大的墙，解决方法：①找个v-p-n②[kaggle注册无法激活怎么办](https://blog.csdn.net/sgfmby1994/article/details/77941021)
 - [fastai官方代码库](https://github.com/fastai/course-v3)
