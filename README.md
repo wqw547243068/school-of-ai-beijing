@@ -64,7 +64,7 @@
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### 入门必读
-- 知识体系
+- 知识体系(参考第一次课：[深度学习入门指南](https://github.com/wqw547243068/school-of-ai-beijing/blob/master/resource/School%20of%20AI%20Beijing-20190421-%20%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf))
 - ![](other/system.png)
 - 如何高效学习
    - 知乎：[为什么大多数人宁愿吃生活的苦，也不愿吃学习的苦？](https://www.zhihu.com/question/272483562/answer/376542013)（主动吃苦）
