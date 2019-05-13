@@ -64,12 +64,15 @@
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### 入门必读
+- 知识体系
+- ![](other/system.png)
 - 如何高效学习
    - 知乎：[为什么大多数人宁愿吃生活的苦，也不愿吃学习的苦？](https://www.zhihu.com/question/272483562/answer/376542013)（主动吃苦）
    - 学习金字塔: 主动学习＞被动学习,教授＞总结＞实践＞看书
    - 费曼技巧：[终极快速学习方法](https://www.zhihu.com/question/20576786)
    - 怎么成为大牛？走出舒适区，进入学习区
    - 大脑的学习之道：图谱结构+注意力+联想记忆+推理反思
+   - ![](other/how-to-learn.png)
 - 数学基础：（选读，如果想深入学习，就必读）
    - 线性代数（35%）
       - 资料：[「Deep Learning」读书系列分享第二章：线性代数 | 分享总结](https://www.leiphone.com/news/201708/iL1S8jkc4ytZFzHS.html) 【文字版】, [线性代数笔记](https://note.youdao.com/share/?id=2dd5b67042a5a49bd81a450c0a7490be&type=note#/)
