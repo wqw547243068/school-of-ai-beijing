@@ -112,6 +112,8 @@
       - [matplotlib核心剖析](http://www.cnblogs.com/vamei/archive/2013/01/30/2879700.html)
       - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/27/matplotlib/)
 - 机器学习入门：
+   - [机器学习基本流程](http://holbrook.github.io/2017/10/13/ML_index.html)
+      - ![](http://holbrook.github.io/2017/10/13/ML_index/machine_learning_workflow.png)
    - [可视化讲解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
    - [Google机器学习速成课](https://developers.google.cn/machine-learning/crash-course/)
    - [Scikit-learn官网](http://scikit-learn.org/stable/),[中文文档](http://sklearn.apachecn.org/cn/0.19.0/)
