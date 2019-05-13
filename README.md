@@ -53,11 +53,29 @@
 - 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
 
 ### 本地环境
-- 待补充
+- 为什么大家都用jupyter notebook？深度学习代码只能在notebook上跑吗？
+- 非也，notebook主要用于教学展示，代码分享，工程落地时，必须转成单个的python文件，按照机器学习的基本流程划分文件及目录，常见的结构如下：
+   - data：数据目录，包含：
+      - train.txt
+      - test.txt
+      - validation.txt（可选）
+   - bin：核心代码，主要包含：
+      - model.py：模型定义
+      - feature.py：特征工程部分，离线训练和在线评估都有
+      - train.py：模型训练代码
+      - predict.py：在线预测（inference，推断）
+   - model：模型存放
+   - log：日志目录
+      - 训练日志，如tensorboard日志
+   - conf：配置文件
+   - common：公共库、组件
+      - eva.py：效果评估
+   
 
 ### 云环境
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
-   - 如果无法访问，建议使用Kaggle，[接入指南](https://course.fast.ai/start_kaggle.html)
+   - 如果无法访问，建议使用Kaggle，[fastai接入指南](https://course.fast.ai/start_kaggle.html),[从0到1走进kaggle](https://blog.csdn.net/qunnie_yi/article/details/80129508)
+      - 【2019-05-12】kaggle注册时可能收不到验证码，原因是伟大的墙，解决方法：①找个v-p-n②[kaggle注册无法激活怎么办](https://blog.csdn.net/sgfmby1994/article/details/77941021)
 - [fastai官方代码库](https://github.com/fastai/course-v3)
 
 ## 学习资料
