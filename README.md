@@ -86,7 +86,7 @@
       - [python numpy笔记](https://www.zybuluo.com/chanvee/note/89078)
       - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/15/numpy/)
    - pandas，表格数据分析工具，资料如下：
-      - [Pandas学习笔记|常用功能](https://zhuanlan.zhihu.com/p/25013519)
+      - [Pandas学习笔记-常用功能](https://zhuanlan.zhihu.com/p/25013519)
       - [十分钟搞定pandas](http://www.cnblogs.com/chaosimple/p/4153083.html)
       - [知识点总结：脑图笔记](https://woaielf.github.io/2017/04/22/Pandas/)
    - matplotlib,画图工具，资料如下：
@@ -155,7 +155,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
 - 也可以去[Fast.AI论坛-SoAI区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
-   - 【注意】<font color='red'>[如何在issue中提问](https://github.com/wqw547243068/school-of-ai-beijing/issues/1)</font>
+   - 【注意】[如何在issue中提问](https://github.com/wqw547243068/school-of-ai-beijing/issues/1)
 
 ## 参考资料
 ###  CNN和CV
