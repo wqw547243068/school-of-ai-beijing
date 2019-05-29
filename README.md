@@ -6,9 +6,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/wqw547243068/school-of-ai-beijing.svg)](https://github.com/wqw547243068/school-of-ai-beijing/issues)
 [![GitHub release](https://img.shields.io/github/release/wqw547243068/school-of-ai-beijing.svg)](https://github.com/wqw547243068/school-of-ai-beijing/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wqw547243068/wqw547243068.github.io/master/LICENSE)
+
 ---
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ccx59t5xwh&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+
 ---
+
 - [SoAI-The School of AI主页](https://www.theschool.ai/)，[SoAI-Beijing项目主页](https://wqw547243068.github.io/school-of-ai-beijing)
 - <font color='red'>温馨提示</font>
 > <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，</font>请点击[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
