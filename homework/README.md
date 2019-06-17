@@ -7,5 +7,6 @@
 
 ## 作业地址
 - 见project[卡片墙](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)
+- 大部分基础知识以及扩展资料都在之前的课程ppt中,多看SoAI主页[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 
