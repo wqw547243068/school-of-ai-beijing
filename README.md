@@ -44,7 +44,7 @@
 
 - 北京分部有中文、英文两个版本，详情：
    - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
-   - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，王奇文等主讲，采用翻转课堂方式
+   - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，[王奇文](https://wqw547243068.github.io/)等主讲，采用翻转课堂方式
 ![first](other/first_lecture.jpg),![flipped](other/flipped.jpg)
 
 ### SoAI-北京
@@ -260,9 +260,9 @@ Fast.AI系列速成实战课程，时间安排如下：
 ## 交流分享
 欢迎大家入群分享、交流！
 - [Fast.AI论坛-SoAI北京区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)（英文为主）
-- The School of AI 北京中文版 QQ群
-
+- The School of AI 北京中文版 QQ群, [王奇文](https://wqw547243068.github.io/), 联系我？wqw547243068@163.com, qq: 547243068
 ![qq](other/SoAI-北京群二维码.png)
+
 
 ## 合作方
 - 大数据文摘+清华数据科学院研究院
