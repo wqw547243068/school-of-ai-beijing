@@ -225,33 +225,39 @@ Fast.AI系列速成实战课程，时间安排如下：
 ![image](https://user-images.githubusercontent.com/3257257/59566552-55c45300-9094-11e9-8eec-f23736653eaa.png)
 ![image](https://user-images.githubusercontent.com/3257257/59566558-61177e80-9094-11e9-88de-7e9ff85ea939.png)
    - [Clear image](https://github.com/wqw547243068/school-of-ai-beijing/blob/master/other/soai_presentation.jpg?raw=true),[Clear image](https://github.com/wqw547243068/school-of-ai-beijing/blob/master/other/soai_presentation1.jpg?raw=true)
+
 ### 中文分支 Chinese branch
-1. 第一位 邢畅, xingchang, 16:07，学习总结，在地理信息系统里的应用
+
+- 第一位 邢畅, xingchang, 16:07，学习总结，在地理信息系统里的应用
    - 介绍了GIS领域的应用，整理了详细的学习笔记、脑图
-1. 第二位 张天奇，Tianqi.Zhang，16:27，kaggle比赛，基于新闻语料的股价涨跌预测，Eric Zhang
+- 第二位 张天奇，Tianqi.Zhang，16:27，kaggle比赛，基于新闻语料的股价涨跌预测，Eric Zhang
    - 成绩：356/2800, ≈13%，4个人的团队，负责特征工程+多线程实现，xgboost主要负责分类
    - 提问：
       - xGBoost的原理，既可以用于分类，还可以用于回归
       - 代码里将的metric用的是MSE，而xgb导入的是分类器，看似矛盾？
-1. 第三位 五个人，推荐资料：数学基础张宇36讲，课程内容回顾；
+- 第三位 五个人，推荐资料：数学基础张宇36讲，课程内容回顾；
    - 蒋宝尚，mnist的python实现，文本分析（大爆炸+华为+五月天）
    - 周启红，学术文章关键词提取，学习过程中遇到的坑儿
    - 王瑞华，视频汇报
-1. 第四位  黄安付，17:15，专题报告：fit_one_cycle()详解
+- 第四位  黄安付，17:15，专题报告：fit_one_cycle()详解
    - 优化算法，鞍点（saddle point），病态矩阵，粒子群算法
    - 提问：动量解释，附加SGD系列优化算法演进，[An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/),[How to Escape Saddle Points Efficiently](http://www.offconvex.org/2017/07/19/saddle-efficiency/),[SGD算法比较](https://blog.slinuxer.com/2016/09/sgd-comparison)，如下图，注意：v是动量部分，g是梯度部分![](https://raw.githubusercontent.com/SwordYork/simplified-deeplearning/master/sgd-comparison/figures/relation.png) ![](http://ruder.io/content/images/2016/09/contours_evaluation_optimizers.gif) ![](http://ruder.io/content/images/2016/09/saddle_point_evaluation_optimizers.gif)
-1. 第五位  李靖华，17:36，学习总结
+- 第五位  李靖华，17:36，学习总结
    - git，学习方法总结
    - 实习经历，4w张图片分类，用代码1天完成，做事情时先别急着动手
    - 成功拿到创新工场的实习机会，新人到职场的华丽蜕变
+
 ### 英文分支 English branch
+
 - 张子涵, I wrote a short article with some doodling on neural networks and how they work. Here is the link if you want to check it out [medium文章](https://medium.com/@milena.lazzaretti5/mathematical-aspects-of-deep-learning-graphically-explained-e05c6a5acbfa)
 - Mohamed Amine Aguir的[Convolutional Neural Network](https://www.linkedin.com/pulse/deep-learning-convolutional-neural-network-cnn-mohamed-amine-aguir)
 - Nabil Affo的Uber ride评论分类项目，[jupyter代码](https://github.com/nabil2i/part1_fastai/blob/master/Uber.ipynb), Medium文章[Loss functions in machine learning and deep learning](https://medium.com/@affo.nabil/loss-functions-in-machine-learning-and-deep-learning-846446b87d5b)
 - Alexander R Kivaisi, Categorizing Soccer Teams（代码见资料汇总区）, Medium文章[Data Augmentation](https://medium.com/@regak2010/data-augmentation-85e8d4497578)
 - Min Wang(汪敏)
 - Yuanyuan，CFAIR-10图像分类
+
 ### 资料汇总 Resources
+
 - 部分学员的答辩整理已收集到[目录](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/homework), 欢迎大家积极分享自己的资料，共同学习，添加方式，回复本帖
 - Part of the resources have been collected to this [address](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/homework), it's recommended to share your own ppt/code/post here by reply bellow, learn from each other
 - 大部分基础知识以及扩展资料都在之前的课程ppt中,多看SoAI主页[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)，**毕业了并不代表学完了，或者真的学好了，请大家有空多温习，少走弯路**
