@@ -146,6 +146,7 @@
 Fast.AI系列速成实战课程，时间安排如下：
 - 注意：这是github page搭建的主页，如想进入github，请点击“View on Github”，示例如下：
 - ![](https://user-images.githubusercontent.com/3257257/57822301-10c3ad00-77c6-11e9-93c9-53ab736f6e77.png)
+- [历次ppt课件资源](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/resource)
 
 |*时间*|*章节*|*题目*|*预习资源*|*正式解读*|*作业*|
 |:----|:----|:------|:----|:----|:----|
