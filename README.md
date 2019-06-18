@@ -21,18 +21,18 @@
 - [关于SoAI-About The School of AI](#关于soai-about-the-school-of-ai)
 - [学习资料-Learning material](#学习资料-learning-material)
    - [入门必读-Must read for beginners](#入门必读-must-read-for-beginners)
-- [开发环境-Dev environment](#开发环境)
-   - [本地环境-Local environment](#本地环境)
-   - [云环境-Cloud environment](#云环境)
-- [课程列表-Syllabus](#课程列表)
-- [课程内容-Content](#课程内容)
-   - [第一课 深度学习入门指南-Intro to Deep Learning](#第一课-深度学习入门指南)
-   - [第二课 图像分类-Image Classification](#第二课-图像分类)
-- [作业汇总-Homework Summary](#作业汇总)
-- [参考资料-References](#参考资料)
-- [结业答辩-Graduation presentations](#结业答辩)
-- [交流分享-Share](#交流分享)
-- [合作方-Partner](#合作方)
+- [开发环境-Dev environment](#开发环境-dev-environment)
+   - [本地环境-Local environment](#本地环境-local-environment)
+   - [云环境-Cloud environment](#云环境-cloud-environment)
+- [课程列表-Syllabus](#课程列表-syllabus)
+- [课程内容-Contents](#课程内容-contents)
+   - [第一课 深度学习入门指南-Intro to Deep Learning](#第一课-深度学习入门指南-intro-to-deep-learning)
+   - [第二课 图像分类-Image Classification](#第二课-图像分类-image-classification)
+- [作业汇总-Homework Summary](#作业汇总-homework-summary)
+- [参考资料-References](#参考资料-references)
+- [结业答辩-Graduation presentations](#结业答辩-graduation-presentations)
+- [交流分享-Share](#交流分享-share)
+- [合作方-Partner](#合作方-partner)
 ---
 
 ## 关于SoAI-About The School of AI
@@ -47,7 +47,7 @@
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，[王奇文](https://wqw547243068.github.io/)等主讲，采用翻转课堂方式
 ![first](other/first_lecture.jpg),![flipped](other/flipped.jpg)
 
-### SoAI-北京 
+### SoAI-北京
 
 - [The School of AI Beijing官方论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
@@ -59,7 +59,7 @@
 ## 开发环境-Dev environment
 - 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
 
-### 本地环境
+### 本地环境-Local env
 - 为什么大家都用jupyter notebook？深度学习代码只能在notebook上跑吗？
 - 非也，notebook主要用于教学展示，代码分享，工程落地时，必须转成单个的python文件，按照机器学习的基本流程划分文件及目录，常见的结构如下：
    - data：数据目录，包含：
@@ -79,7 +79,7 @@
       - eva.py：效果评估
    
 
-### 云环境
+### 云环境-Cloud env
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
       - [如何用 Google Colab 练 Python](https://sspai.com/post/52980)
       - [Google Colab 免费GPU服务器使用教程](https://blog.csdn.net/cocoaqin/article/details/79184540)
@@ -142,7 +142,7 @@
 - [手写数字识别在线体验](http://scs.ryerson.ca/~aharley/vis/conv/)
 
 
-## 课程列表
+## 课程列表-Syllabus
 
 Fast.AI系列速成实战课程，时间安排如下：
 - 注意：这是github page搭建的主页，如想进入github，请点击“View on Github”，示例如下：
@@ -163,15 +163,15 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 > 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)，[kaggle中文代码](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 
-## 课程内容
+## 课程内容-Contents
 - 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本（注意：需要vpn，如果没有，请往下看，找bilibili上的视频）
 ![fastai](other/fastai.jpg)
 - 如有问题，可以去[SoAI论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
 ---
 - [ppt资源](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/resource)
-### 第一课 深度学习入门指南
+### 第一课 深度学习入门指南-Intro to Deep Learning
 - 深度学习入门全貌，请仔细看
-### 第二课 图像分类
+### 第二课 图像分类-Image Classification
 - 主题：fastai课程的第一课进行讨论：图像分类。
 - 时间：于4月27日星期日下午5点举行
 - 地点：双清路77号院双清大厦4号楼4层清华数据科学研究院
@@ -185,14 +185,14 @@ Fast.AI系列速成实战课程，时间安排如下：
 - <iframe src="//player.bilibili.com/player.html?aid=46252318&cid=81036516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
 
 
-## 作业汇总
+## 作业汇总-Homework Summary
 - [作业提交指南](https://github.com/wqw547243068/school-of-ai-beijing/issues/2)
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
 - 也可以去[Fast.AI论坛-SoAI区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
    - 【注意】[如何在issue中提问](https://github.com/wqw547243068/school-of-ai-beijing/issues/1)
 
-## 参考资料
+## 参考资料-References
 ###  CNN和CV
 1. iris数据集+机器学习实战
 1. CNN简介
