@@ -18,21 +18,21 @@
 > <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，</font>请点击[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ## 目录
-- [关于SoAI](#关于soai)
-- [学习资料](#学习资料)
-   - [入门必读](#入门必读)
-- [开发环境](#开发环境)
-   - [本地环境](#本地环境)
-   - [云环境](#云环境)
-- [课程列表](#课程列表)
-- [课程内容](#课程内容)
-   - [第一课 深度学习入门指南](#第一课-深度学习入门指南)
-   - [第二课 图像分类](#第二课-图像分类)
-- [作业汇总](#作业汇总)
-- [参考资料](#参考资料)
-- [结业答辩](#结业答辩)
-- [交流分享](#交流分享)
-- [合作方](#合作方)
+- [关于SoAI-About The School of AI](#关于soai)
+- [学习资料-Learning material](#学习资料)
+   - [入门必读-Must read for beginners](#入门必读)
+- [开发环境-Dev environment](#开发环境)
+   - [本地环境-Local environment](#本地环境)
+   - [云环境-Cloud environment](#云环境)
+- [课程列表-Syllabus](#课程列表)
+- [课程内容-Content](#课程内容)
+   - [第一课 深度学习入门指南-Intro to Deep Learning](#第一课-深度学习入门指南)
+   - [第二课 图像分类-Image Classification](#第二课-图像分类)
+- [作业汇总-Homework Summary](#作业汇总)
+- [参考资料-References](#参考资料)
+- [结业答辩-Graduation presentations](#结业答辩)
+- [交流分享-Share](#交流分享)
+- [合作方-Partner](#合作方)
 ---
 
 ## 关于SoAI
@@ -149,7 +149,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 - ![](https://user-images.githubusercontent.com/3257257/57822301-10c3ad00-77c6-11e9-93c9-53ab736f6e77.png)
 - [历次ppt课件资源](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/resource)
 
-|*时间*|*章节*|*题目*|*预习资源*|*正式解读*|*作业*|
+|*时间-Date*|*章节-Chapter*|*题目-Topic*|*预习资源-Resources*|*正式解读-Interpretation*|*作业-Homework*|
 |:----|:----|:------|:----|:----|:----|
 |2019-04-21|介绍|深度学习入门指南|请完成ppt里提到的作业，长期|这节课长达2h，内容非常多，覆盖深度学习入门几乎全部知识点|完整看完80+页的ppt，并预习第二课|
 |2018-04-27|第一课|宠物图片分类,[英文视频](https://course.fast.ai/videos/?lesson=1),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/74?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-1-CN.md)|安装fastai环境并动手实现，代码解析：[Github本地](code/lecture_1/fastai_1_Image_Classification.ipynb),[Colab](https://colab.research.google.com/drive/14er2fMCOIyDcwFsV5Vm8LRRARAiiFZLm),[Kaggle](https://www.kaggle.com/wqw547243068/fastai-1-image-classification)|亲手执行本次代码，熟悉fastai环境|
@@ -161,7 +161,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 |2018-05-* |第七课|Resnets、GAN等,[英文视频](https://course.fast.ai/videos/?lesson=7),[中文版笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325/69?u=daniel)|[Github代码](https://github.com/fastai/course-v3/blob/master/files/dl-2019/notes/notes-1-7-CN.md)|-|作业|
 | -|-|-|-|-|-|作业|
 
-最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)，[kaggle中文代码](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
+> 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)，[kaggle中文代码](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 
 ## 课程内容
 - 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本（注意：需要vpn，如果没有，请往下看，找bilibili上的视频）
