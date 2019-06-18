@@ -18,9 +18,9 @@
 > <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，</font>请点击[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ## 目录
-- [关于SoAI-About The School of AI](#关于soai-about-the-school-of-ai)
-- [学习资料-Learning material](#学习资料-learning-material)
-   - [入门必读-Must read for beginners](#入门必读)
+- [关于SoAI-About The School of AI](#关于soai=>about-the-school-of-ai)
+- [学习资料-Learning material](#学习资料=>learning-material)
+   - [入门必读-Must read for beginners](#入门必读=>must-read-for-beginners)
 - [开发环境-Dev environment](#开发环境)
    - [本地环境-Local environment](#本地环境)
    - [云环境-Cloud environment](#云环境)
@@ -35,7 +35,7 @@
 - [合作方-Partner](#合作方)
 ---
 
-## 关于SoAI About The School of AI
+## 关于SoAI=>About The School of AI
 ![logo](other/SoAI_logo_full.png)
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.  
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
@@ -56,7 +56,7 @@
 - [Fast.AI官方课程主页](https://course.fast.ai/),[个人注册入口](https://forums.fast.ai/)
 
 
-## 开发环境 Dev environment
+## 开发环境=>Dev environment
 - 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
 
 ### 本地环境
@@ -87,10 +87,10 @@
       - 【2019-05-12】kaggle注册时可能收不到验证码，原因是伟大的墙，解决方法：①找个v-p-n②[kaggle注册无法激活怎么办](https://blog.csdn.net/sgfmby1994/article/details/77941021)
 - [fastai官方代码库](https://github.com/fastai/course-v3)
 
-## 学习资料 Learning material
+## 学习资料=>Learning material
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
-### 入门必读
+### 入门必读=>Must read for beginners
 - 知识体系(参考第一次课：[深度学习入门指南](https://github.com/wqw547243068/school-of-ai-beijing/blob/master/resource/School%20of%20AI%20Beijing-20190421-%20%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf))
 - ![](other/system.png)
 - 如何高效学习
