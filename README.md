@@ -18,7 +18,7 @@
 > <font color='blue'>如果在你浏览的是github里的readme文件，无法查看视频，</font>请点击[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)
 
 ## 目录
-- [关于SoAI-About The School of AI](#关于soai)
+- [关于SoAI-About The School of AI](#关于soai-About The School of AI)
 - [学习资料-Learning material](#学习资料)
    - [入门必读-Must read for beginners](#入门必读)
 - [开发环境-Dev environment](#开发环境)
@@ -43,11 +43,11 @@
 <iframe src="//player.bilibili.com/player.html?aid=37767979&cid=66394634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="100%"> </iframe>
 
 - 北京分部有中文、英文两个版本，详情：
-   - 英语分支，每周一晚在朝阳，Max主讲 [en](other/SoAI_en.jpg)
+   - 英语分支，每周一晚在朝阳，[Max](https://pechyonkin.me/)主讲,[github](https://github.com/pechyonkin) [en](other/SoAI_en.jpg)
    - 中文分支，每周末下午17:00，清华大学，海淀区双清路双清大厦4号楼4层清华数据科学研究院，[王奇文](https://wqw547243068.github.io/)等主讲，采用翻转课堂方式
 ![first](other/first_lecture.jpg),![flipped](other/flipped.jpg)
 
-### SoAI-北京
+### SoAI-北京-About The School of AI
 
 - [The School of AI Beijing官方论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
