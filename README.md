@@ -216,7 +216,7 @@ Fast.AI系列速成实战课程，时间安排如下：
    - [Geoffrey Hinton多伦多大学演讲：卷积神经网络的问题](http://www.sohu.com/a/165989490_465975)
    - [Hinton的Capsule论文全公开！首发《胶囊间的动态路由》原文精译，了解Hinton的胶囊网络ㅣ第一部分：直觉](http://mp.weixin.qq.com/s/gAFKrUjfQyqaDKNyMRitZg)
 
-## 结业答辩
+## 结业答辩-Graduation presentations
 
 ### 介绍 Introduction
 - 时间：2019-06-16
@@ -256,14 +256,14 @@ Fast.AI系列速成实战课程，时间安排如下：
 - Min Wang(汪敏)
 - Yuanyuan，CFAIR-10图像分类
 
-### 资料汇总 Resources
+### 资料汇总-Resources
 
 - 部分学员的答辩整理已收集到[目录](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/homework), 欢迎大家积极分享自己的资料，共同学习，添加方式，回复本帖
 - Part of the resources have been collected to this [address](https://github.com/wqw547243068/school-of-ai-beijing/tree/master/homework), it's recommended to share your own ppt/code/post here by reply bellow, learn from each other
 - 大部分基础知识以及扩展资料都在之前的课程ppt中,多看SoAI主页[The School of AI Beijing](https://wqw547243068.github.io/school-of-ai-beijing)，**毕业了并不代表学完了，或者真的学好了，请大家有空多温习，少走弯路**
 
 
-## 交流分享
+## 交流分享-Share
 欢迎大家入群分享、交流！
 - [Fast.AI论坛-SoAI北京区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)（英文为主）
 - The School of AI 北京中文版 QQ群, [王奇文](https://wqw547243068.github.io/), 联系我？wqw547243068@163.com, qq: 547243068
