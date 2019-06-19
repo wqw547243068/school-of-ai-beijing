@@ -246,7 +246,11 @@ Fast.AI系列速成实战课程，时间安排如下：
    - git，学习方法总结
    - 实习经历，4w张图片分类，用代码1天完成，做事情时先别急着动手
    - 成功拿到创新工场的实习机会，新人到职场的华丽蜕变
-
+- 总结
+   - 答辩里的几个技术点可以继续深挖：
+      - ①sgd各种算法演化，动量和梯度分别对应哪一块？这道题是新手的进阶题，打怪升级的典型门槛
+      - ②kaggle项目里的矛盾点要必要澄清下，基于新闻预测股价，为什么用xgb分类？特征工程部分可以继续系统化，不满足于简单的数据处理
+      - ③实习经历里的4w张图像标注任务可以补充描述下，说不定有更好的办法
 ### 英文分支 English branch
 
 - 张子涵, I wrote a short article with some doodling on neural networks and how they work. Here is the link if you want to check it out [medium文章](https://medium.com/@milena.lazzaretti5/mathematical-aspects-of-deep-learning-graphically-explained-e05c6a5acbfa)
