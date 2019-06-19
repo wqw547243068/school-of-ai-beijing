@@ -36,6 +36,7 @@
 ---
 
 ## 关于SoAI-About The School of AI
+
 ![logo](other/SoAI_logo_full.png)
 - An international educational non-profit platform dedicated to studying, teaching and creating AI to help solve the world’s most difficult problems. Our mission is to offer a world-class AI education to anyone on Earth for free.  
 - Siraj对SoAI的[介绍](https://www.bilibili.com/video/av37767979/)
@@ -53,10 +54,12 @@
 - 网易课堂直播：[BEIJING SCHOOL OF AI WORKSHOP](https://study.163.com/course/courseMain.htm?courseId=1209149803)
 
 ### Fast.AI
+
 - [Fast.AI官方课程主页](https://course.fast.ai/),[个人注册入口](https://forums.fast.ai/)
 
 
 ## 开发环境-Dev environment
+
 - 多种方式：本地、云环境，由于不少项目需要GPU支持，建议采用云环境
 
 ### 本地环境-Local env
@@ -80,6 +83,7 @@
    
 
 ### 云环境-Cloud env
+
    - [Google colab](https://colab.research.google.com)，与github直接打通，免费GPU（Tesla T4）
       - [如何用 Google Colab 练 Python](https://sspai.com/post/52980)
       - [Google Colab 免费GPU服务器使用教程](https://blog.csdn.net/cocoaqin/article/details/79184540)
@@ -88,9 +92,11 @@
 - [fastai官方代码库](https://github.com/fastai/course-v3)
 
 ## 学习资料-Learning material
+
 - 第1课的官方视频，[图像分类-需vpn](https://course.fast.ai/videos/?lesson=1),[bilibili-无需vpn](https://www.bilibili.com/video/av41718196?from=search&seid=15198798356009994731),[第1课的更新](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936),[第一课笔记](https://github.com/hiromis/notes/blob/master/Lesson1.md)
 
 ### 入门必读-Must read for beginners
+
 - 知识体系(参考第一次课：[深度学习入门指南](https://github.com/wqw547243068/school-of-ai-beijing/blob/master/resource/School%20of%20AI%20Beijing-20190421-%20%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf))
 - ![](other/system.png)
 - 如何高效学习
@@ -164,6 +170,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 > 最新课程安排见[project区](https://github.com/wqw547243068/school-of-ai-beijing/projects/1)，[Fastai中文笔记](https://forums.fast.ai/t/fast-ai-v3-2019/39325)，[kaggle中文代码](https://forums.fast.ai/t/fast-ai-v3-2019-notebook-kaggle-kernel/39722)
 
 ## 课程内容-Contents
+
 - 本教程以[fastai的速成课](https://course.fast.ai/videos/?lesson=1)为蓝本（注意：需要vpn，如果没有，请往下看，找bilibili上的视频）
 ![fastai](other/fastai.jpg)
 - 如有问题，可以去[SoAI论坛](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)提问
@@ -186,6 +193,7 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 
 ## 作业汇总-Homework Summary
+
 - [作业提交指南](https://github.com/wqw547243068/school-of-ai-beijing/issues/2)
 - [Homework](homework/README.md)
 - 分线上和线下渠道，将自己的作业整理到github或colab，去project[作业汇总区](https://github.com/wqw547243068/school-of-ai-beijing/projects/2)新建自己的卡片
@@ -193,6 +201,7 @@ Fast.AI系列速成实战课程，时间安排如下：
    - 【注意】[如何在issue中提问](https://github.com/wqw547243068/school-of-ai-beijing/issues/1)
 
 ## 参考资料-References
+
 ###  CNN和CV
 1. iris数据集+机器学习实战
 1. CNN简介
@@ -251,6 +260,7 @@ Fast.AI系列速成实战课程，时间安排如下：
       - ①sgd各种算法演化，动量和梯度分别对应哪一块？这道题是新手的进阶题，打怪升级的典型门槛
       - ②kaggle项目里的矛盾点要必要澄清下，基于新闻预测股价，为什么用xgb分类？特征工程部分可以继续系统化，不满足于简单的数据处理
       - ③实习经历里的4w张图像标注任务可以补充描述下，说不定有更好的办法
+
 ### 英文分支 English branch
 
 - 张子涵, I wrote a short article with some doodling on neural networks and how they work. Here is the link if you want to check it out [medium文章](https://medium.com/@milena.lazzaretti5/mathematical-aspects-of-deep-learning-graphically-explained-e05c6a5acbfa)
@@ -268,13 +278,15 @@ Fast.AI系列速成实战课程，时间安排如下：
 
 
 ## 交流分享-Share
+
 欢迎大家入群分享、交流！
 - [Fast.AI论坛-SoAI北京区](https://forums.fast.ai/t/school-of-ai-beijing-study-group/43436)（英文为主）
 - The School of AI 北京中文版 QQ群, [王奇文](https://wqw547243068.github.io/), 联系我？wqw547243068@163.com, qq: 547243068
 ![qq](other/SoAI-北京群二维码.png)
 
 
-## 合作方
+## 合作方-Partners
+
 - 大数据文摘+清华数据科学院研究院
 
 ![bdd](other/bdd.jpg)
