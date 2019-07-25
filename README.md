@@ -299,6 +299,9 @@ Fast.AI系列速成实战课程，时间安排如下：
 <iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 <iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 ---
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ccx59t5xwh&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+---
+
 ## 评论区
 
 <!-- 来必力City版安装代码 -->
@@ -320,8 +323,6 @@ Fast.AI系列速成实战课程，时间安排如下：
 </div>
 <!-- City版安装代码已完成 -->
 
----
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ccx59t5xwh&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 ---
 <script>
 var _hmt = _hmt || [];
