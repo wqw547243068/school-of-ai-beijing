@@ -299,6 +299,28 @@ Fast.AI系列速成实战课程，时间安排如下：
 <iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 <iframe src="https://ghbtns.com/github-btn.html?user=wqw547243068&amp;repo=school-of-ai-beijing&amp;type=fork&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
 ---
+## 评论区
+
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC80NTU2OC8yMjA3OQ==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
+
+---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5ccx59t5xwh&amp;s=350&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 ---
 <script>
